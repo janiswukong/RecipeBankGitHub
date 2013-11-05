@@ -5,7 +5,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Set;
 
-import net.sf.json.JSONArray;
 
 import com.rb.util.ProduceJSON;
 
@@ -22,8 +21,7 @@ public class CategoryClient {
 
 		// Invoking the service
 
-		com.rb.testClient.CategoryStub.GetAllCategoriesResponse response = stub
-				.getAllCategories(request);
+		com.rb.testClient.CategoryStub.GetAllCategoriesResponse response = stub.getAllCategories(request);
 		String jsonString = response.get_return();
 
 		// get response Json-format string from websrevice
