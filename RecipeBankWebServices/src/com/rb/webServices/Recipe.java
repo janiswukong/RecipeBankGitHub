@@ -29,6 +29,7 @@ public class Recipe {
 		return recipeString;
 
 	}
+	
 
 	public String getRecipeDetails(int recipeId) {
 
