@@ -13,8 +13,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry exported="true" kind="lib" path="F:/eCentennial/My Homework/Programming Four/COMP231-Software Project Management/org.json-20120521.jar" sourcepath="F:/eCentennial/My Homework/Programming Four/COMP231-Software Project Management/org.json-20120521.jar"/>
-	<classpathentry kind="lib" path="F:/eCentennial/My Homework/Programming Four/COMP231-Software Project Management/json-lib-2.4-jdk15.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Json"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Json"/>
+	<classpathentry kind="lib" path="org.json-20120521.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
